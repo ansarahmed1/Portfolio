@@ -24,7 +24,7 @@ export function Hero() {
             className="mt-8 font-display text-5xl font-bold tracking-tight sm:text-7xl md:text-8xl animate-fade-up"
             style={{ animationDelay: "80ms" }}
           >
-            Aazar <span className="text-gradient">Shaikh</span>
+            Ansar <span className="text-gradient">Shaikh</span>
           </h1>
 
           <div

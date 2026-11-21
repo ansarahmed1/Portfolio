@@ -24,9 +24,9 @@ export function Contact() {
 
           <div className="md:col-span-2 space-y-3">
             {[
-              { icon: Mail, label: "aazarshaikh77@gmail.com", href: "mailto:aazarshaikh77@gmail.com" },
-              { icon: Linkedin, label: "linkedin.com/in/aazar-shaikh", href: "https://www.linkedin.com/in/aazar-shaikh" },
-              // { icon: Github, label: "github.com/aazar", href: "#" },
+              { icon: Mail, label: "ansarahnsari2004@gmail.com", href: "mailto:ansarahnsari2004@gmail.com" },
+              { icon: Linkedin, label: "linkedin.com/in/ansar-ahmed-ansari", href: "https://www.linkedin.com/in/ansar-ahmed-ansari" },
+              // { icon: Github, label: "github.com/ansar", href: "#" },
               // { icon: Briefcase, label: "Upwork / Fiverr", href: "#" },
             ].map((s) => { 
               const Icon = s.icon;

@@ -30,9 +30,9 @@ export function Navbar() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <a href="#top" className="group flex items-center gap-2 font-display font-bold text-lg">
           <span className="relative grid h-8 w-8 place-items-center rounded-lg bg-gradient-to-br from-cyan to-violet text-[#0a0e1a] shadow-[0_0_20px_oklch(0.82_0.18_210/0.4)]">
-            AS
+            AA
           </span>
-          <span className="hidden sm:inline">Aazar<span className="text-cyan">.</span></span>
+          <span className="hidden sm:inline">Ansar<span className="text-cyan">.</span></span>
         </a>
 
         <ul className="hidden md:flex items-center gap-1">

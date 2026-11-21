@@ -4,13 +4,13 @@ import { SectionHeading } from "./about";
 const testimonials = [
   {
     quote:
-      "Aazar was very professional and quick to understand the problem. He delivered ahead of time with perfection. I will highly recommend Aazar for RL/ML/Stochastic Processes-related jobs. He has sound theoretical understanding and great coding skills.",
+      "Ansar was very professional and quick to understand the problem. He delivered ahead of time with perfection. I will highly recommend Ansar for RL/ML/Stochastic Processes-related jobs. He has sound theoretical understanding and great coding skills.",
     name: "Client Review",
     role: "RL / ML / Stochastic Processes Project",
   },
   {
     quote:
-      "Aazar is a genuine and hard worker. He worked on a Python project for our client. Definitely recommend. Wishing him all the best for future assignments.",
+      "Ansar is a genuine and hard worker. He worked on a Python project for our client. Definitely recommend. Wishing him all the best for future assignments.",
     name: "Client Review",
     role: "Python Development Project",
   },
